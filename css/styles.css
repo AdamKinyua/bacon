@@ -1,0 +1,14 @@
+body {
+  background-color: #F0FFFF;
+  font-family: "Courier New", monospace;
+  font-size: 12px;
+}
+
+h1 {
+  color: #000000;
+  text-align: center;
+}
+
+img {
+  image-orientation: auto;
+}
