@@ -1,7 +1,8 @@
-body {
-  background-color: #F0FFFF;
+.body {
+  background-color: khaki;
   font-family: "Courier New", monospace;
   font-size: 12px;
+  font-style: oblique;
 }
 
 h1 {
@@ -9,6 +10,11 @@ h1 {
   text-align: center;
 }
 
-img {
+.img {
   image-orientation: auto;
+  background-color: red;
+}
+
+#heading {
+  color: green;
 }
