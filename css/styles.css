@@ -7,7 +7,23 @@
 
 h1 {
   color: #000000;
-  text-align: center;
+  text-align: left;
+}
+
+#heading {
+  color: green;
+  font-size: 45px;
+  text-indent: 1.5em;
+}
+
+#para {
+  color: #262C08;
+  font-family: "Trattatello", fantasy;
+  font-size: 25px;
+  font-style: oblique;
+  color: #000000;
+  text-align: left;
+  text-indent: 5em;
 }
 
 .img {
@@ -15,6 +31,9 @@ h1 {
   background-color: red;
 }
 
-#heading {
-  color: green;
+.li {
+  color: #262C08;
+  font-family: "Trattatello", fantasy;
+  font-size: 15px;
+  font-style: oblique;
 }
