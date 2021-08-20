@@ -1,8 +1,18 @@
 .body {
-  background-color: khaki;
+  /*background-color: khaki;*/
   font-family: "Courier New", monospace;
-  font-size: 12px;
+  font-size: 21px;
   font-style: oblique;
+  background-image: url("the_irish_man.jpeg");
+  background-position: center;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  background-position: right;
+  background-position: bottom;
+  background-position: top;
+
 }
 
 h1 {
@@ -26,14 +36,14 @@ h1 {
   text-indent: 5em;
 }
 
-.img {
+/*.img {
   image-orientation: auto;
   background-color: red;
-}
+}*/
 
 .li {
   color: #262C08;
   font-family: "Trattatello", fantasy;
-  font-size: 15px;
+  font-size: 20px;
   font-style: oblique;
 }
