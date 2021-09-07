@@ -34,6 +34,8 @@ h1 {
   color: #000000;
   text-align: left;
   text-indent: 5em;
+  margin-top: -300px;
+  width: 1030px;
 }
 
 /*.img {
@@ -46,4 +48,14 @@ h1 {
   font-family: "Trattatello", fantasy;
   font-size: 20px;
   font-style: oblique;
+}
+
+.gaussian {
+  font-style: oblique, white;
+  color: white;
+  font-family: "Courier New" monospace;
+  margin-left: 1200px;
+  /*border: solid 5px;*/
+  width: 1030px;
+  /*height: 600px;*/
 }
