@@ -1,61 +1,31 @@
 .body {
-  /*background-color: khaki;*/
-  font-family: "Courier New", monospace;
-  font-size: 21px;
-  font-style: oblique;
-  background-image: url("the_irish_man.jpeg");
-  background-position: center;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
-  background-position: right;
-  background-position: bottom;
-  background-position: top;
-
+  margin: 0;
+  position: relative;
+  background-color: #E5EEE4;
 }
 
-h1 {
-  color: #000000;
+.top-container {
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  width: 400px;
   text-align: left;
 }
 
-#heading {
-  color: green;
-  font-size: 45px;
-  text-indent: 1.5em;
-}
-
-#para {
-  color: #262C08;
-  font-family: "Trattatello", fantasy;
-  font-size: 25px;
-  font-style: oblique;
-  color: #000000;
+.middle-container {
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  top: 150px;
+  width: 400px;
   text-align: left;
-  text-indent: 5em;
-  margin-top: -300px;
-  width: 1030px;
 }
 
-/*.img {
-  image-orientation: auto;
-  background-color: red;
-}*/
-
-.li {
-  color: #262C08;
-  font-family: "Trattatello", fantasy;
-  font-size: 20px;
-  font-style: oblique;
-}
-
-.gaussian {
-  font-style: oblique, white;
-  color: white;
-  font-family: "Courier New" monospace;
-  margin-left: 1200px;
-  /*border: solid 5px;*/
-  width: 1030px;
-  /*height: 600px;*/
+.bottom-container {
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  top: 200px;
+  width: 400px;
+  text-align: left;
 }
