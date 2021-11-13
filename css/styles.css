@@ -1,31 +1,48 @@
 .body {
   margin: 0;
   position: relative;
-  background-color: #E5EEE4;
+  background-color: black;
+  font-family: "courier new", monospace;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
 }
 
 .top-container {
+  margin-top: 0;
   padding: 20px;
-  position: absolute;
   left: 0;
-  width: 400px;
+  width: 100%;
   text-align: left;
+  color: white;
 }
 
 .middle-container {
   padding: 20px;
-  position: absolute;
   left: 0;
-  top: 150px;
-  width: 400px;
-  text-align: left;
+  top: 200px;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  margin:0;
+  color: white;
 }
 
 .bottom-container {
   padding: 20px;
-  position: absolute;
   left: 0;
-  top: 200px;
+  top: 300px;
   width: 400px;
   text-align: left;
+  color: white;
 }
