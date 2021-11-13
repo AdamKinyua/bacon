@@ -1,21 +1,25 @@
 .body {
-  margin: 0;
+  margin: 0 auto 0 auto;
   position: relative;
   background-color: black;
   font-family: "courier new", monospace;
 }
 
 h1 {
-  font-family: "Sacramento", cursive;
+
 
 }
 
 h2 {
-  font-family: "Montserrat", sans-serif;
+
 }
 
 h3 {
-  font-family: "Montserrat", sans-serif;
+  text-align: left;
+}
+
+.span {
+  text-decoration: underline;
 }
 
 .top-container {
@@ -24,27 +28,21 @@ h3 {
   left: 0;
   width: 50%;
   text-align: left;
-  color: white;
+  color: #CFCFCF;
 }
 
 .middle-container {
-  padding: 20px;
-  left: 0;
-  top: 200px;
-  width: 50%;
   height: 100px;
-  text-align: center;
-  margin:0;
-  color: white;
+  width: 250px;
+  color: #CFCFCF;
 }
 
 .bottom-container {
-  padding: 20px;
-  left: 0;
-  top: 300px;
-  width: 50%;
   text-align: left;
-  color: white;
+  color: #CFCFCF;
+  margin-top: 300px;
+  margin:-200px auto 0 850px;
+  width: 400px;
 }
 
 .rose {
