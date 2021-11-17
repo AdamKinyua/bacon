@@ -5,48 +5,24 @@
   font-family: "courier new", monospace;
 }
 
-h1 {
 
-
-}
-
-h2 {
-
-}
-
-h3 {
-  text-align: left;
-}
-
-.span {
-  text-decoration: underline;
-}
-
-.top-container {
-  margin-top: 0;
-  padding: 20px;
-  left: 0;
-  width: 50%;
-  text-align: left;
-  color: #CFCFCF;
-}
-
-.middle-container {
-  height: 100px;
-  width: 250px;
-  color: #CFCFCF;
-}
-
-.bottom-container {
-  text-align: left;
-  color: #CFCFCF;
-  margin-top: 300px;
-  margin:-200px auto 0 850px;
-  width: 400px;
-}
 
 .rose {
   float: left;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  margin: 0 10px 10px 0;
+}
+
+.img-g {
+  float: left;
+  height: 100px;
+  width: 100px;
+  margin: 0 10px 10px 10px;
+}
+
+.fear {
+  height: 100px;
+  width: 100px;
+  margin: 0 10px 10px 10px;
 }
