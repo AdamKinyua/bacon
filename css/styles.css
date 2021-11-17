@@ -3,6 +3,7 @@
   width: 100%;
   background-color: black;
   font-family: "courier new", monospace;
+  position: absolute;
 }
 
 
@@ -21,13 +22,29 @@
   width: 100px;
   margin: 2px;
   padding: 10px;
-  position: absolute;
+  position: relative;
 }
 
 .fear {
   height: 100px;
   width: 100px;
-  margin: 2px 2px 2px 108px; 
+  margin: 2px 2px 2px 2px;
   padding: 10px;
-  position: absolute;
+  position: relative;
+}
+
+.rose {
+  height: 100px;
+  width: 100px;
+  margin: 2px 2px 2px 2px;
+  padding: 10px;
+  position: relative;
+}
+
+.raven {
+  height: 100px;
+  width: 100px;
+  margin: 2px 2px 2px 2px;
+  padding: 10px;
+  position: relative;
 }
