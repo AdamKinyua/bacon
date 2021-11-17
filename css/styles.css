@@ -1,28 +1,33 @@
 .body {
-  margin: 0 auto 0 auto;
-  position: relative;
+  margin: 0;
+  width: 100%;
   background-color: black;
   font-family: "courier new", monospace;
 }
 
 
-
-.rose {
-  float: left;
-  height: 100px;
-  width: 100px;
-  margin: 0 10px 10px 0;
+.paragraph {
+  height: 50px;
+  width: auto;
+  color: #585757;
+  padding: 10px;
+  text-align: left;
 }
 
+
+
 .img-g {
-  float: left;
   height: 100px;
   width: 100px;
-  margin: 0 10px 10px 10px;
+  margin: 2px;
+  padding: 10px;
+  position: absolute;
 }
 
 .fear {
   height: 100px;
   width: 100px;
-  margin: 0 10px 10px 10px;
+  margin: 2px 2px 2px 108px; 
+  padding: 10px;
+  position: absolute;
 }
