@@ -48,3 +48,11 @@
   padding: 10px;
   position: relative;
 }
+
+.numbers {
+  height: 100px;
+  width: 100px;
+  margin: 2px 2px 2px 2px;
+  padding: 10px;
+  position: relative;
+}
